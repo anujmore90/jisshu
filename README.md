@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="" alt="Jisshu-Auto-filter">
+  <img src="" alt="Ram-Bhakt">
 </p>
 <h1 align="center">
-  <a href="https://telegram.me/JISSHU_BOTS">Colonel Auto Filter Bot</a>
+  <a href="https://telegram.me/cinema_house_update">Ram Bhakt Auto Filter Bot</a>
 </h1>
 <img src="https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/resources/hr.gif"/>
 
