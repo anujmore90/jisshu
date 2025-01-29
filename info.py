@@ -19,14 +19,14 @@ BOT_TOKEN = environ.get('BOT_TOKEN', '8097788870:AAF_Akaun85R--9G6ZeSHE-27YVyVC1
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6928992241').split()]
-USERNAME = environ.get('COLONEL', "https://t.me/anujmore98k") # ADMIN USERNAME
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002424006723'))
-MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/+dGMrrOpnhiJlMDA1')
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002337984372').split()]
+USERNAME = environ.get('COLONEL', "https://t.me/undefine_123") # ADMIN USERNAME
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002482323036'))
+MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/+cILY4vcJxeswZDFl')
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002498430033').split()]
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://mharmy:mharmy@mharmy.07flt.mongodb.net/?retryWrites=true&w=majority&appName=mharmy")
-DATABASE_NAME = environ.get('DATABASE_NAME', "mharmy")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://anujmore9022:anujmore9022@cinema.hhtph.mongodb.net/?retryWrites=true&w=majority&appName=Cinema")
+DATABASE_NAME = environ.get('DATABASE_NAME', "anujmore9022")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'My_Tg_files')
 #---------------------------------------------------------------
 #---------------------------------------------------------------
